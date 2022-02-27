@@ -17,6 +17,7 @@
  
  License
  
+ https://opensource.org/licenses/MIT MIT licence
  
  
  
